@@ -1,6 +1,6 @@
 # datacamp-intro_to_python_for_data_science_course
 
-In this repository, I have combined course content in a jupyter notebook files. So you can easily study on jupyter notebook
+In this repository, I have combined course content in jupyter notebook files. So you can easily study on jupyter notebook
 and play with data.
 
 Course Description
